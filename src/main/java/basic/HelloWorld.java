@@ -4,7 +4,7 @@ public class HelloWorld {
 	public void weclomeMsg() { // from d1 branch
 		System.out.println("welcome to java programming!");
 	}
-    public void displayMsg() { // from branch c1
+    public void displayMsg() { // from c1 branch 
 		System.out.println("This is my first java program");
 	}
     // from branch b1
